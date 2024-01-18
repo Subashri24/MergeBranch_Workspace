@@ -19,6 +19,7 @@ public class Assignment_QNO5 {
 		 // catch block
 		 catch (ArithmeticException e) {
 		 System.out.println("Exception caught: Division by zero.");
+		 System.out.println("hi");
 		 }
 		 }
 		}
